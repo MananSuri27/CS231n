@@ -3,7 +3,7 @@
 I have been following the course CS231n: Convolutional Neural Networks for Visual Recognition offered by Stanford. This repository maintains the solutions to CS23N assignments.
 
 Course Lectures: [Youtube](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)\
-Course Site: [CS231n](http://cs231n.stanford.edu/)
+Course Site: [CS231n](http://cs231n.stanford.edu/)/
 A brief description of the assignments:
 
 **Assignment 1**
